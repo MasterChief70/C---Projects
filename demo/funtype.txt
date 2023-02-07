@@ -1,0 +1,6 @@
+void add() argument no return no
+void add(int a,int b) argument yes return no
+int add() argument no return yes
+int add(int a,int b) argument yes return yes
+
+
